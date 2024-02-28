@@ -1,0 +1,40 @@
+body{
+    justify-content: center;
+    align-items: center;
+    height: 100ph;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.main{
+    margin-top: 100px;
+    border-radius: 10px;
+    border-color: pink;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.button{
+    padding: 25px;
+    border-radius: 10px;
+    color: rgb(92, 35, 45);
+    background-color: rgb(240, 125, 144);
+    font-size: 20px;
+}
+
+.btn-green{
+    background-color: rgb(255, 66, 98);
+    color: brown;
+
+}
+
+.textarea{
+    height: 100px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: inset;
+    font-size: 30px;
+}
